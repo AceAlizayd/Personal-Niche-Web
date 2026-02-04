@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="My little weird corner of the web!">
+    <meta property="og;title" content="Jester's Domain">
+    <title>Ace of Cards</title>
+    <link rel="stylesheet" href="Website stylesheet">
+</head>
+
+<body>
+    <main>
+        <article>
+            <h1 id="main-title">Welcome to The Jester's Domain</h1>
+            <p class="main-d">Hello, hello hatters of the world! Welcome to my Domain of madness, my house of
+                cards.
+                <br>This is a place where logic is a joke and chaos reigns supreme.
+                <br>I'll be sharing tidbits of my happenings and interests on here - projects I'm working on and new
+                obsessions, so stay tuned!
+            </p>
+            <p class="main-d"><em>Notice:</em> Do not try and make sense of the nonsense and nonesense of the sense.</p>
+            <div class="opimg-list">
+                <img src="/home/kali/Ace Alizayd/webimg/Pixel art card ace of diamonds playing card vector icon for 8bit game on white background.jpeg"
+                    class="img">
+                <img src="/home/kali/Ace Alizayd/webimg/Jinx Wallpaper(1).jpeg" class="img">
+                <img src="/home/kali/Ace Alizayd/webimg/jpeg(11)" class="img">
+                <img src="/home/kali/Ace Alizayd/webimg/Pixel art card ace of clubs vector icon for 8bit game on white background(1).jpeg"
+                    class="img">
+                <img src="/home/kali/Ace Alizayd/webimg/Izuku Midoriya_ Painel _ Boku no Hero.jpeg" class="img">
+                <img src="/home/kali/Ace Alizayd/webimg/Pixel art card ace of hearts playing card vector icon for 8bit game on white background.jpeg"
+                    class="img">
+                <img src="/home/kali/Ace Alizayd/webimg/jpeg(12)" class="img">
+                <img src="/home/kali/Ace Alizayd/webimg/ranpo _).jpeg" class="img">
+                <img src="/home/kali/Ace Alizayd/webimg/Pixel art card ace of spades playing card vector icon for 8bit game on white background.jpeg"
+                    class="img">
+            </div>
+        </article>
+        <div class="contain">
+            <a href="#op">
+                <div class="inner-cards click" id="intoductory">
+                    <h2>Get To Know Me</h2>
+                    <p>Who am I? Well, aren't you curious.
+                        <br>Click me to find out!
+                    </p>
+
+                </div>
+            </a>
+            <a href="Anime">
+                <div class="inner-cards">
+
+                    <h2>Anime</h2>
+                    <p>My insanity is an effect of the anime I watch.
+                        <br>Click me to see my favorites!
+                    </p>
+
+                </div>
+            </a>
+            <div class="inner-cards">
+
+                <h2>Books</h2>
+                <p>If I could only read all day, I'd be the happiest hermit in the world.
+                    <br>Click me to see all my favorite reads!
+                </p>
+
+            </div>
+            <div class="inner-cards">
+
+                <h2>Projects</h2>
+                <p>I find that I have a new quest every day.
+                    <br> Click me to see what I'm currently working on!
+                </p>
+
+            </div>
+        </div>
+    </main>
+    <div class="intro">
+        <section id="op">
+            <div id="op-left">
+                <img class="op-left" id="gojo1" src="/home/kali/Ace Alizayd/webimg/ꪆৎ satorū gojo lookup.jpeg">
+                <img class="op-left" id="geto1" src="/home/kali/Ace Alizayd/webimg/ꪆৎ suguru geto lookup.jpeg">
+                <img class="op-left" id="sukuna1" src="/home/kali/Ace Alizayd/webimg/𝜗𝜚.jpeg">
+            </div>
+            <article>
+                <h3>Get To Know Me</h3>
+                <p>Well, I'm Ace. A bit of a dreamer, doer, and a lot of delusion.
+                    <br>I love thinking up new worlds and possibilities. I believe that the world is only as
+                    fantastical as we make it to be.
+                    <br>When I'm not stuck nose-deep into a book, or re-watching FMAB, I'm probably writing, coding
+                    or trying out a handful of other hobbies.
+                <blockquote> "Don’t worry about what other people think. Hold your head up high and plunge forward."
+                    <i>~Izuku Midoriya </i>
+                </blockquote>
+                </p>
+            </article>
+        </section>
+    </div>
+
+</body>
+
+</html>
