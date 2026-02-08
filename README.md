@@ -10,6 +10,6 @@ I'm currently coding this project while simultaniously learning CSS and JavaScri
 <br>
 The best way of learning is by doing and so this project is part of my education.
 <br>
-I've hard some issues thus far dealing with flexbox, but I've figured it out now - hopefully.
+I've had some issues thus far dealing with flexbox, but I've figured it out now - hopefully.
 <br>
 At first all the images would be scatterd, or mess with the text and I found it frustrating but I messed around with it until something fit, and for the parts I didn't know how to do (thus far) I used AI to explain and help me figure it out.
